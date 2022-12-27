@@ -1,2 +1,2 @@
 # 3437k.github.io
-web
+web resume
